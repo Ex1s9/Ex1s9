@@ -45,14 +45,5 @@ Always looking to sharpen my skills, learn modern tools, and grow into a strong 
 
 ---
 
-## 🔥 My Git Stats
-
-| General                                                                                                                                                                                                                                          | Languages                                                                                                                                                                                                                                                                           | Streak                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Ex1s9&show_icons=true&locale=en&theme=transparent&title_color=FFFFFF&text_color=E6EDF3&border_color=30363D&icon_color=58A6FF&hide_rank=true&bg_color=0d1117&card_width=320) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex1s9&layout=compact&show_icons=true&locale=en&theme=transparent&title_color=FFFFFF&text_color=E6EDF3&border_color=30363D&icon_color=58A6FF&hide_rank=true&bg_color=0d1117&card_width=320) | ![GitHub Streak](https://github-readme-streak-stats-mu-three.vercel.app/?user=Ex1s9&border=30363D&background=0d1117&ring=58A6FF&fire=58A6FF&dates=E6EDF3&currStreakLabel=58A6FF&currStreakNum=58A6FF&sideNums=E6EDF3&sideLabels=E6EDF3&hide_total_contributions=true&hide_longest_streak=true&card_width=150) |
-
-
----
-
 ## ✨ Thanks for visiting!
 Feel free to check out my repositories and drop a ⭐ if you like something.  
