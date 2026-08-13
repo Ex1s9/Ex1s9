@@ -1,19 +1,9 @@
 # 👋 Hi, I'm Ex1  
 
 ### 🚀 About Me
-I'm a **19 y.o. Fullstack Developer** passionate about building web applications with **React / Next.js** on the frontend and exploring system-level development with **Rust** on the backend.  
+I'm a **20 y.o. Frontend Developer** passionate about building web applications with **React / Next.js** on the frontend.  
 Always looking to sharpen my skills, learn modern tools, and grow into a strong **Software Engineer**.
  
----
-
-## 🌐 Find Me
-
-| Site | URL |
-| ---- | --- |
-| <div align="center"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="16px"></div> | [https://t.me/x1s_developer](https://t.me/x1s_developer) |
-| <div align="center"><img src="https://cdn.simpleicons.org/discord" alt="Discord" width="16px"></div> | [https://discord.com/users/675806687445254176](https://discord.com/users/675806687445254176) |
-| <div align="center"><img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="16px"></div> | [sadovskyroma@gmail.com](mailto:sadovskyroma@gmail.com) |
-
 ---
 
 ## ⚡ My Favourite Technologies
@@ -25,14 +15,6 @@ Always looking to sharpen my skills, learn modern tools, and grow into a strong 
 [![MobX](https://img.shields.io/badge/MobX-FF9966?style=for-the-badge&logo=mobx&logoColor=white)](https://mobx.js.org/) 
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/) 
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
-</p>
-
-**Backend:** <p align="left">
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
-[![Fastify](https://img.shields.io/badge/Fastify-FF6C37?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/) 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) 
-[![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)](https://actix.rs/)
 </p>
 
 **DevOps / Tools:** <p align="left">
